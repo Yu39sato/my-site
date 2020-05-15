@@ -25,21 +25,3 @@ $(document).ready(function(){
         pause: 5000,
     });
 });
-
-
-
-
-
-
-
-
-/*画面遷移*/
-/*
-location.href='../html/main.html';
-location.href='../html/character.html';
-location.href='../html/favorite.html';
-location.href='../html/birthplace.html';
-location.href='../html/aspiration.html';
-
-*/
-
